@@ -1,4 +1,5 @@
 .DS_Store
 *.log
 *.bak
-slides.pdf
+{{cookiecutter.repo_name}}.pdf
+build/

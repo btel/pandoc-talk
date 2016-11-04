@@ -1,9 +1,11 @@
 {
 	"full_name": "Bartosz Teleńczuk",
-	"repo_name": "2016-11-mytalk",
 	"title": "Yet another Python talk",
-	"venue": "UNIC, CNRS",
-	"date": "2016",
+	"conference": "Data Club",
+    "city" : "Gif-sur-Yvette",
+	"venue": "UNIC",
+	"date": "2016-11-07",
+	"repo_name": "{{ cookiecutter.date }}-{{ cookiecutter.conference.lower().replace(' ', '-') }}-{{ cookiecutter.city.lower().replace(' ', '-') }}",
     "_copy_without_render" : [
         "template/beamer.pandoc"
         ]
