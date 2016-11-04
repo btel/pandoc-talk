@@ -1,7 +1,10 @@
 {
 	"full_name": "Bartosz Teleńczuk",
-	"repo_name": "mytalk",
+	"repo_name": "2016-11-mytalk",
 	"title": "Yet another Python talk",
 	"venue": "UNIC, CNRS",
-	"date": "2016"
+	"date": "2016",
+    "_copy_without_render" : [
+        "template/beamer.pandoc"
+        ]
 }
