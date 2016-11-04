@@ -3,9 +3,7 @@
 % {{cookiecutter.venue}}\
   \vspace{0.5cm}{{cookiecutter.date}}
 
----
+# My first slide
 
-\begin{center}
-My first slide
-\end{center}
+![Anscombe's quartet 1973](figures/anscombe.svg)
 
