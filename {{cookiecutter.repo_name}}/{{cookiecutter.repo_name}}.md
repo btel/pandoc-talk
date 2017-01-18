@@ -1,6 +1,6 @@
 % {{cookiecutter.title}}
 % {{cookiecutter.full_name}}
-% {{cookiecutter.venue}}, {{cookiecutter.city}}, {{cookiecutter.date.split('-')[0]}}\
+% {{cookiecutter.venue}}, {{cookiecutter.city}}, {{cookiecutter.date.split('-')[0]}}
 
 # My first slide
 
